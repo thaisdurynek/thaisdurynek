@@ -3,7 +3,7 @@
 </p>
 
 ## Sobre mim
-# Contatos:
+### Contatos:
 - email: thais.durynek@gmail.com>
 - linkedin: https://www.linkedin.com/in/thaisdurynek/
 - Desenvolvedora Front-End Jr. pela Laboratória.
@@ -14,7 +14,7 @@
 -Fun fact: Já fiz clones em laboratório.
 
 ## Skills
-# Linguagens e Ferramentas:
+### Linguagens e Ferramentas:
 JavaScript, HTML5, CSS3, Git, Firebase, ReactJs, NodeJs
 
 ## Stats
