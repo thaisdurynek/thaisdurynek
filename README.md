@@ -4,7 +4,7 @@
 
 ## Sobre mim
 ### Contatos:
-- email: thais.durynek@gmail.com>
+- email: thais.durynek@gmail.com
 - linkedin: https://www.linkedin.com/in/thaisdurynek/
 - Desenvolvedora Front-End Jr. pela Laboratória.
 - Bacharel em Ciência e Tecnologia.
@@ -18,6 +18,7 @@
 JavaScript, HTML5, CSS3, Git, Firebase, ReactJs, NodeJs
 
 ## Stats
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisdurynek&show_icons=true&theme=radical" alt="Thais Durynek's Github Stats">
 </p>  
