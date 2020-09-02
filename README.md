@@ -18,5 +18,5 @@
 </dl>
 
 <p align="center">
-  ![Thais Durynek's github stats](https://github-readme-stats.vercel.app/api?username=thaisdurynek&show_icons=true&theme=radical)
- </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisdurynek&show_icons=true&theme=radical" alt="Thais Durynek's Github Stats">
+</p>  
