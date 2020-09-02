@@ -9,6 +9,10 @@
   </p>
 <h2 align="center">Sobre mim</h2>
 <ul>
+  <li>Contatos:
+    <a href="mailto:thais.durynek@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/thaisdurynek/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px"  alt="LinkedIn"></a>
+  </li>
   <li>Desenvolvedora Front-End Jr. pela Laboratória.</li>
   <li>Bacharel em Ciência e Tecnologia.</li>
   <li>Estou aprendendo desenvolvimento Front-End com ReactJs e fundamentos de arquitetura de sistemas.</li>
