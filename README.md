@@ -3,7 +3,6 @@
 </p>
 
 ## Sobre mim
-### Contatos:
 - Pode entrar em contato comigo através do [Linkedin](https://www.linkedin.com/in/thaisdurynek/).
 - Desenvolvedora Front-End Jr. pela Laboratória.
 - Bacharel em Ciência e Tecnologia.
