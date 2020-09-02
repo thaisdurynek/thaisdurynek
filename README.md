@@ -17,4 +17,6 @@
   <dd>JavaScript, HTML5, CSS3, Git, Firebase, ReactJs, NodeJs</dd>
 </dl>
 
-<img src=![Thais Durynek's github stats](https://github-readme-stats.vercel.app/api?username=thaisdurynek&show_icons=true&theme=radical) align="center">
+<p align="center">
+  ![Thais Durynek's github stats](https://github-readme-stats.vercel.app/api?username=thaisdurynek&show_icons=true&theme=radical)
+ </p>
