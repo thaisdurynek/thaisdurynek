@@ -11,7 +11,7 @@
 - Estou aprendendo desenvolvimento Front-End com ReactJs e fundamentos de arquitetura de sistemas
 - Sou uma Padawan buscando ser uma profissional melhor a cada dia.
 - Pronomes: Ela/Dela.
--Fun fact: Já fiz clones em laboratório.
+- Fun fact: Já fiz clones em laboratório.
 
 ## Skills
 ### Linguagens e Ferramentas:
