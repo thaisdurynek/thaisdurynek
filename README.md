@@ -12,8 +12,3 @@
 
 ### Linguagens e outras tecnologias:
 JavaScript | HTML5 | CSS3 | Git | Firebase | ReactJs | NodeJs
-
-### Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisdurynek&show_icons=true&theme=radical" alt="Thais Durynek's Github Stats">
-</p>  
