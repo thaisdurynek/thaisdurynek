@@ -6,7 +6,7 @@
 - Pode entrar em contato comigo através do [Linkedin](https://www.linkedin.com/in/thaisdurynek/).
 - Desenvolvedora Front-End Jr. pela Laboratória.
 - Bacharel em Ciência e Tecnologia.
-- Atualmente estou aprendendo desenvolvimento Front-End com ReactJs e fundamentos de arquitetura de sistemas.
+- Atualmente estou aprendendo Java e fundamentos de arquitetura de sistemas.
 - Sou uma Padawan buscando ser uma profissional melhor a cada dia.
 - Fun fact: Já fiz clones em laboratório.
 
