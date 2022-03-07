@@ -4,11 +4,10 @@
 
 ## Sobre mim
 - Pode entrar em contato comigo através do [Linkedin](https://www.linkedin.com/in/thaisdurynek/).
-- Desenvolvedora Front-End Jr. pela Laboratória.
 - Bacharel em Ciência e Tecnologia.
-- Tenho experiência como Dev Java.
+- Tenho experiência como Dev Java mas o grande amor da minha vida é o Front-end
 - Atualmente trabalho na área de e-commerce
-- Fun fact: Já fiz clones em laboratório.
+- Fun fact: Já fui estudante de química e fiz clones em laboratório de biotecnologia.
 
 ### Linguagens e outras tecnologias:
 JavaScript | HTML5 | CSS3 | Java | SQL | Git | ReactJs | NodeJs | VTEX IO
