@@ -5,8 +5,8 @@
 ## Sobre mim
 - Pode entrar em contato comigo através do [Linkedin](https://www.linkedin.com/in/thaisdurynek/).
 - Bacharel em Ciência e Tecnologia.
-- Tenho experiência como Dev Java mas o grande amor da minha vida é o Front-end
-- Atualmente trabalho na área de e-commerce
+- Tenho experiência como Dev Java mas o grande amor da minha vida é o Front-end.
+- Atualmente trabalho em um time técnico de plataformas de e-commerce.
 - Fun fact: Já fui estudante de química e fiz clones em laboratório de biotecnologia.
 
 ### Linguagens e outras tecnologias:
