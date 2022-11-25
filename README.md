@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/bcbPzkSCytDH2/giphy.gif" width="30%">
 </p>
 
-## Sobre mim
-- Pode entrar em contato comigo através do [Linkedin](https://www.linkedin.com/in/thaisdurynek/)
-- Bacharel em Ciência e Tecnologia
-- Amo front-end
-- Atualmente trabalho como Engenheira de Software
-- Fun fact: Já fui estudante de química e fiz clones em laboratório de biotecnologia
+### Hi there 👋
 
-### Linguagens e outras tecnologias:
-JavaScript | Typescript | HTML5 | CSS3 | Java | SQL | Git | ReactJs | NodeJs
+- 📫 How to reach me: https://www.linkedin.com/in/thaisdurynek/
+- 👯 I’m looking to collaborate on front-end projects
+- 🌱 I’m currently learning a lot about Salesforce and software architecture
+- 🤔 I’m looking for help with software testing and software architecture
+- 💬 Ask me about CSS, HTML and Javascript
+- 😄 Pronouns: ela/she
+- ⚡ Fun fact: I love musicals like Chicago, The Phantom of the Opera and etc.
