@@ -5,8 +5,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: https://www.linkedin.com/in/thaisdurynek/
-- 👯 I’m looking to collaborate on front-end projects
-- 🌱 I’m currently learning a lot about Salesforce and software architecture
+- 👯 I’m looking to collaborate on backend projects
+- 🌱 I’m currently learning a lot about Java and software architecture
 - 🤔 I’m looking for help with software testing and software architecture
 - 💬 Ask me about CSS, HTML and Javascript
 - 😄 Pronouns: ela/she
